@@ -1,0 +1,1 @@
+let myAuto = new Auto("AUDI", "TT", 1998)
